@@ -1,5 +1,5 @@
 # WordLightener
-bible-summary  
+bible-summarizer  
 
 WordLightener generates summaries of Bible verses from 'Start verse' until 'End verse'.  
 Bible corpus: https://www.kaggle.com/datasets/oswinrh/bible.  
