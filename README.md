@@ -9,5 +9,4 @@ Input: type in the book, the chapter, and the verse (i.e. Genesis 1 1 or 2 Samue
 Generating the summary may take a few minutes.  
 The pop-up looks like this:  
 
-<img width="313" alt="image" src="https://github.com/KristoWind/WordLightener/assets/99342556/febf5235-a37e-45d4-91e6-577a77c1951f">
 <img width="659" alt="image" src="https://github.com/KristoWind/WordLightener/assets/99342556/62a3325d-c928-44c2-bdb5-079cec896898">
