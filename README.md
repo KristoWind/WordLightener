@@ -1,7 +1,10 @@
 # WordLightener
 bible-summary  
 
-WordLightener generates summaries of Bible verses from 'Start verse' until 'End verse'.   
+WordLightener generates summaries of Bible verses from 'Start verse' until 'End verse'.  
+Bible corpus: https://www.kaggle.com/datasets/oswinrh/bible.  
+Translation: World English Bible (WEB).  
+
 Generating the summary may take a few minutes.  
 The pop-up looks like this:  
 
