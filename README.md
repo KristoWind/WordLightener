@@ -5,11 +5,14 @@ WordLightener generates summaries of Bible verses from 'Start verse' until 'End 
 Bible corpus: https://www.kaggle.com/datasets/oswinrh/bible.  
 Translation: World English Bible (WEB).  
 
-Input: book, chapter, and verse (i.e. Genesis 1 1 or 2 Samuel 3 5).  
+Input: book, chapter, and verse (i.e. Genesis 1 1 or 2 Samuel 3 5). 
+
+## Generate summary  
 Generating the summary may take a minute.  
 The pop-up looks like this:  
 
-<img width="659" alt="image" src="https://github.com/KristoWind/WordLightener/assets/99342556/62a3325d-c928-44c2-bdb5-079cec896898">  
+<img width="570" alt="image" src="https://github.com/KristoWind/bible-summarizer/assets/99342556/f10bde99-b718-42d9-ab3a-c99a0fcf3b8a">
 
+## Generate question  
 Update: you can also generate questions about the verses:  
-<img width="305" alt="image" src="https://github.com/KristoWind/bible-summarizer/assets/99342556/01ff43f1-677e-4fea-ba4d-a673bb075e06">
+<img width="570" alt="image" src="https://github.com/KristoWind/bible-summarizer/assets/99342556/5efdd2bb-4fad-4db3-acb5-74076d37f787">
