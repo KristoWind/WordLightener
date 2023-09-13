@@ -5,7 +5,7 @@ WordLightener generates summaries of Bible verses from 'Start verse' until 'End 
 Bible corpus: https://www.kaggle.com/datasets/oswinrh/bible.  
 Translation: World English Bible (WEB).  
 
-Input: book, chapter, and verse (i.e. Genesis 1 1 or 2 Samuel 3 5). 
+Input: book, chapter, and verse (for instance Genesis 1 1 or 2 Samuel 3 5). 
 
 ## Generate summary  
 Generating the summary may take a minute.  
