@@ -16,4 +16,4 @@ The pop-up looks like this:
 ## Generate question  
 Update: you can also generate questions about the verses:  
 
-<img width="570" alt="image" src="https://github.com/KristoWind/bible-summarizer/assets/99342556/5efdd2bb-4fad-4db3-acb5-74076d37f787">
+<img width="556" alt="image" src="https://github.com/KristoWind/bible-summarizer/assets/99342556/6b936e43-51f7-43fb-b52b-a85660c64112">
