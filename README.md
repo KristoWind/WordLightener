@@ -17,3 +17,9 @@ The pop-up looks like this:
 You can also generate questions about the verses:  
 
 <img width="556" alt="image" src="https://github.com/KristoWind/bible-summarizer/assets/99342556/6b936e43-51f7-43fb-b52b-a85660c64112">
+
+## Generate sentiment score
+While generating a summary, a sentiment-score is also predicted of the verses:  
+
+<img width="580" alt="image" src="https://github.com/KristoWind/bible-summarizer/assets/99342556/65bfa098-ea7e-4f45-8204-b921fac55588">
+
